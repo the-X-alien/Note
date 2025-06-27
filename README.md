@@ -20,4 +20,4 @@ BOM:
 | 1        | MT3608 (Boost Converter to 5V)                                       | [Amazon](https://www.amazon.com/MT3608-Converter-Supply-Module-2V-24V/dp/B07QGWCHHR/) | $6.00 |
 | 1        | Copper wire for speakers and bad footprints                         | [Amazon](https://www.amazon.com/Enameled-Winding-Temperature-Transformers-Inductors/dp/B0BYJGHPST/) | $8.00 |
 | 1        | PCB                                                                  | PCB Way or JLCPCB | $25.00 |
-|          | **Total:**                                                           |                  | **~$94.39** |
+|          | **Total:**                                                           |                  | **~$94.39**+ Tax = **103.24**|
